@@ -4,10 +4,15 @@ This repository features three engaging projects: an AI Chatbot, a Tic Tac Toe G
 
 # Table of Contents:
 1. **Project Overview**
+
 2. **Features**
+
 3. **Setup and Installation**
+
 4. **Usage**
+
 5. **Project Details**
+
 6. **Acknowledgments**
 
 # Project Overview
@@ -50,9 +55,11 @@ This interactive recommendation system allows users to filter movies by specific
     pip install -r requirements.txt
 - For the Movie Recommendation System, download tmdb_5000_movies.csv and place it in the project directory or update the path in the code.
 
-# 3. Run Each Project
+## Run Each Project
 - **AI Chatbot:** Run interactive_conversation() in chatbot.py.
+  
 - **Tic Tac Toe Game with AI:** Run tic_tac_toe_game() in tic_tac_toe.py.
+  
 - **Movie Recommendation System:** Run interactive_movie_system() in movie_recommendation.py.
 
 # Usage
@@ -93,4 +100,5 @@ This interactive recommendation system allows users to filter movies by specific
   
 # Acknowledgments
 - **TMDB Dataset:** Data source for movie information.
+  
 - **Python Documentation:** For extensive support on libraries and best practices.
